@@ -1,7 +1,7 @@
 # Recriando a Interface do Netflix
 
 <h1>
-    <img src="https://ik.imagekit.io/dvtpeitlns/Instagran_emvcQ5F-Zq.PNG">
+ 
 </h1>
  
 
